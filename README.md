@@ -46,10 +46,10 @@ Medified is an instant medical checkup service. It will predict the chances of g
 5) Deployed all ML models in Heroku and Hosted the website in Github pages.
 
 # Project Created by:
-  [Abdul Adhil PK](adhilcodes.me)        
+  [Abdul Adhil PK](https://github.com/adhilcodes.me)        
   
   [Muhammed Yoonus](https://github.com/yoonus47/Medified/)
   
-  [Muhammed Hashir PM](hashirpm.github.io/)
+  [Muhammed Hashir PM](https://github.com/hashirpm.github.io/)
  
 
