@@ -48,7 +48,7 @@ Medified is an instant medical checkup service. It will predict the chances of g
 # Project Created by:
   [Abdul Adhil PK](adhilcodes.me)        
   
-  [Muhammed Yoonus](yoonus47.github.io/Portfolio/)
+  [Muhammed Yoonus](https://github.com/yoonus47/Medified/)
   
   [Muhammed Hashir PM](hashirpm.github.io/)
  
